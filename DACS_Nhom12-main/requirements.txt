@@ -1,0 +1,25 @@
+torch
+torchvision
+torchaudio
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+rdkit
+pandas
+numpy
+scikit-learn
+tqdm
+networkx
+matplotlib
+seaborn
+wandb
+gdown
+fastapi
+uvicorn
+# ── Auth & Database ────────────────────────────────────────────
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
