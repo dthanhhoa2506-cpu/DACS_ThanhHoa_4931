@@ -31,7 +31,12 @@ ENV/
 .idea/
 
 # Project Specific
-data/
+# data/ - keep for version control
+# Large files (too big for GitHub)
+data/raw/human_disease_textmining_full.tsv
+data/raw/ctd_gene_attribute_edges.txt
+data/raw/ctd_gene_attribute_edges.txt.gz
+
 checkpoints/
 logs/
 results/
