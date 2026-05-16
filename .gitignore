@@ -29,9 +29,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# Large data files
-data/raw/
-data/processed/*.pt
+# Note: Keep data folders for version control
 
 # IDE
 .vscode/
